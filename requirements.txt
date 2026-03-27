@@ -6,3 +6,4 @@ nltk
 requests
 textblob
 clean-text
+unidecode
